@@ -18,5 +18,5 @@ Cette application Android simple a été développée avec Java sur Android Stud
 3. Lancer sur un émulateur ou un appareil Android  
 
 ## 🎥 Vidéo de démonstration
-👉 [Lien de la vidéo ici]
+https://github.com/user-attachments/assets/c91467f3-59bd-486d-8319-ab879e8fb5a5
 
